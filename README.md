@@ -174,7 +174,7 @@ It covers:
 4. Multi-language production code snippets (Python, TypeScript, Rust).
 
 📄 You can review the full Chinese manual here:
-[附带本文档或 GitHub / Notion 链接]
+https://github.com/Oepjdihc2008/orbitflare-chinese-manual
 
 If the OrbitFlare team finds this manual valuable, you are welcome to incorporate it into your official docs (docs.orbitflare.com) to serve Chinese-speaking developers. If your team has a Community Contributor Grant or Ecosystem Bounty fund, you can support this localization initiative via my Solana SPL address:
 
