@@ -3,7 +3,10 @@
 
 > [!IMPORTANT]
 > **作者/贡献者**：Web3 独立研究员  
-> **贡献者收款钱包**：`BF2pfru1ctS18uG2Si1nGGGirb7cXUghG4aSpD7zs4DG` (Solana SPL: USDC / USDT / SOL)  
+> **贡献者收款钱包**：  
+> - **Solana (SPL)**：`BF2pfru1ctS18uG2Si1nGGGirb7cXUghG4aSpD7zs4DG`  
+> - **EVM (Base / Arbitrum / ETH)**：`0x48F0c2aAe90D5Cc5DA94Ac6A17B52FA9763099c1`  
+> - **TRON (TRC20)**：`TRMYDmUGGwMLbpvEirnCW9imWPwCUkpSM1`  
 > **官方项目参考**：[OrbitFlare 官网](https://orbitflare.com) | [文档中心](https://docs.orbitflare.com) | [Discord](https://discord.gg/orbitflare) | [Twitter](https://twitter.com/OrbitFlare)
 
 ---
@@ -178,8 +181,10 @@ https://github.com/Oepjdihc2008/orbitflare-chinese-manual
 
 If the OrbitFlare team finds this manual valuable, you are welcome to incorporate it into your official docs (docs.orbitflare.com) to serve Chinese-speaking developers. If your team has a Community Contributor Grant or Ecosystem Bounty fund, you can support this localization initiative via my Solana SPL address:
 
-Solana SPL (USDC / USDT / SOL):
-BF2pfru1ctS18uG2Si1nGGGirb7cXUghG4aSpD7zs4DG
+Multi-Chain Contributor Addresses:
+- Solana SPL (USDC / USDT / SOL): BF2pfru1ctS18uG2Si1nGGGirb7cXUghG4aSpD7zs4DG
+- EVM (Base / Arbitrum / ETH): 0x48F0c2aAe90D5Cc5DA94Ac6A17B52FA9763099c1
+- TRON (TRC20-USDT): TRMYDmUGGwMLbpvEirnCW9imWPwCUkpSM1
 
 Looking forward to seeing OrbitFlare power the next generation of Solana high-speed agents! Keep building! 🔥
 ```
